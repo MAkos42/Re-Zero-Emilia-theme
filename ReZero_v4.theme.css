@@ -1,7 +1,7 @@
 /**
  * @name ReZero
  * @author SpoopyMcSpook
- * @version 4.2.2
+ * @version 4.2.2a
  * @description A purple ReZero Emilia theme reworked by your's truly.
 */
 
@@ -186,6 +186,10 @@ body > div:not([class]):last-of-type {
 /*user modal*/
 .visual-refresh .panels_c48ade{
     bottom: 12px
+}
+/*user activity*/
+.visual-refresh .panel__5dec7{
+    background: initial;
 }
 
 /* Scrollbar */
