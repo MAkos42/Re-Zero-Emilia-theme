@@ -141,6 +141,7 @@ body > div:not([class]):last-of-type {
     padding-bottom: calc(var(--custom-app-panels-height, 0) + 20px);
 }
 
+/*unread server message button*/
 .align-chat-input .unreadMentionsFixedFooter_ef3116, .align-chat-input .unreadMentionsIndicatorBottom_ef3116{
     bottom: calc(var(--custom-app-panels-height, 0) + 20px);
 }
@@ -278,7 +279,7 @@ mask:linear-gradient(black 0%, black calc(100% - 8px), #00000000 100%) !importan
 }
 
 .align-chat-input .scrollerSpacer__36d07 {
-    height: 8px;
+    height: 12px;
 }
 
 /*??? -- somewhere in the message feed......*/
